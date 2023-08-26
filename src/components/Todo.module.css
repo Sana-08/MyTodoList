@@ -1,0 +1,78 @@
+.container{
+    border: 2px solid #000000;
+    background-color: #ffffff;
+    height: 80vh;
+    width: 30vw;
+    margin-left: 28rem;
+    margin-top: 6rem;
+    box-shadow: 0 7px 10px;
+}
+.back{
+    background-color: rgb(101, 99, 99);
+    padding: 0.7rem;
+    padding-bottom: 2rem;
+}
+
+.logo{
+    height: 100px;
+    width: 80px;
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+
+.box{
+    border: 1px solid black;
+    display: flex;
+    height: 6vh;
+    width: 23vw;
+    margin-left: 3rem;
+    box-shadow: 0 4px 6px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.input{
+    border: none;
+    outline: none;
+}
+
+.para{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 6rem;
+    margin-top: 1rem;
+}
+
+.add{
+    margin-left: 5rem;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.each{
+    border: 1px solid black;
+    display: flex;
+    height: 6vh;
+    width: 23vw;
+    margin-left: 3rem;
+    margin-top: 0.6rem;
+    box-shadow: 0 4px 6px;
+}
+
+.delete{
+    margin-left: auto;
+    margin-top: 0.5rem;
+    cursor: pointer;
+}
+
+h3{
+    margin-top: 0.6rem;
+    margin-left: 0.3rem;
+}
+
+.btn{
+    margin-left: 10rem;
+    margin-top: 1rem;
+    height: 4.7vh;
+    cursor: pointer;
+}
